@@ -2,7 +2,7 @@
 
 <hr>
 
-> I am a School student from India, Kolkata, West Bengal who started coding in School with Java and later on learnt by myself as a hobby from lectures. I am proficient in Python, Java and C. Introduced to Linux hacking by meeting two Cybersecurity experts on Discord and inspired by them. I have experience in Linux hacking and enjoy exploring and experimenting with different Linux OS.
+> I am a School student from India, West Bengal, Kolkata who started coding in School with Java and later on learnt by myself as a hobby from lectures. I am proficient in Python, Java and C. Introduced to Linux hacking by meeting two Cybersecurity experts on Discord and inspired by them. I have experience in Linux hacking and enjoy exploring and experimenting with different Linux OS.
 
 ### 🛠️ Languages and Tools:
 
