@@ -3,7 +3,7 @@
 ---
 
 I am a School student from India, West Bengal, Kolkata who started coding in School with Java and later on learnt by myself as a hobby from lectures. I am proficient in Python. 
-I am currently learning Java,C and C++ by lectures.
+I am currently learning Java, C and C++ by lectures.
 I was Introduced to cybersecurity by meeting two cybersecurity experts on Discord and inspired by them. I have experience in Linux and enjoy exploring and experimenting with different Linux operating systems.
 
 ## 🛠️ Languages:
